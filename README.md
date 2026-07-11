@@ -2,20 +2,30 @@
 
 **📌 Project Overview**
 
-The AI-Based Stock Market Prediction and Model Accuracy Evaluation System is a web application developed using Python, Flask, and Deep Learning to predict future stock prices and evaluate the performance of prediction models.
-The primary objective of this project is not to guarantee future stock prices, but to measure and compare the prediction accuracy of different machine learning and deep learning models by comparing their predicted values with actual historical stock prices.
-The application automatically retrieves historical stock market data, preprocesses the data, generates predictions using trained models, and evaluates their performance using statistical accuracy metrics. This enables users to analyze how closely each model’s predictions match real market data.
+    The AI-Based Stock Market Prediction and Model Accuracy Evaluation System is a web application developed using Python, Flask, and Deep Learning to predict future stock prices and evaluate the performance of prediction models.
+
+    The primary objective of this project is not to guarantee future stock prices, but to measure and compare the prediction accuracy of different machine learning and deep learning models by comparing their predicted values with actual historical stock prices.
+
+    The application automatically retrieves historical stock market data, preprocesses the data, generates predictions using trained models, and evaluates their performance using statistical accuracy metrics. This enables users to analyze how closely each model’s predictions match real market data.
 
 **🎯 Project Objective**
 
 The main objective of this project is to:
+
 •	Collect historical stock market data.
+
 •	Train prediction models using historical trends.
+
 •	Generate future stock price predictions.
+
 •	Compare Predicted Prices with Actual Prices.
+
 •	Evaluate model performance using accuracy metrics.
+
 •	Visualize the comparison through interactive graphs.
+
 •	Identify which prediction model performs best for the selected dataset.
+
 Instead of focusing solely on prediction, this project focuses on performance evaluation and comparative analysis of forecasting models.
 
 **⚙️ How the Application Works**
@@ -88,10 +98,15 @@ This is the main objective of the project. The forecasted stock prices are compa
 **📊 Expected Outcome**
 
 The system demonstrates how different prediction models perform on real stock market data by comparing predicted values with actual values.
+
 The final output allows users to:
+
 •	Analyze prediction accuracy.
+
 •	Observe differences between actual and predicted prices.
+
 •	Evaluate the effectiveness of each model.
+
 •	Understand the practical application of AI and Deep Learning in financial time-series forecasting.
 
 **🎓 Conclusion**
