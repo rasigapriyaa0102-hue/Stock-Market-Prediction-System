@@ -1,10 +1,13 @@
 📈 AI-Based Stock Market Prediction and Model Accuracy Evaluation
+
 📌 Project Overview
+
 The AI-Based Stock Market Prediction and Model Accuracy Evaluation System is a web application developed using Python, Flask, and Deep Learning to predict future stock prices and evaluate the performance of prediction models.
 The primary objective of this project is not to guarantee future stock prices, but to measure and compare the prediction accuracy of different machine learning and deep learning models by comparing their predicted values with actual historical stock prices.
 The application automatically retrieves historical stock market data, preprocesses the data, generates predictions using trained models, and evaluates their performance using statistical accuracy metrics. This enables users to analyze how closely each model’s predictions match real market data.
 
 🎯 Project Objective
+
 The main objective of this project is to:
 •	Collect historical stock market data.
 •	Train prediction models using historical trends.
@@ -16,7 +19,9 @@ The main objective of this project is to:
 Instead of focusing solely on prediction, this project focuses on performance evaluation and comparative analysis of forecasting models.
 
 ⚙️ How the Application Works
+
 Step 1: Home Page
+
 
 When the application is launched, the user is presented with the home page. This page provides a simple interface where users can select a stock and start the prediction process. It also introduces the technologies used in the project, including the hybrid BiLSTM-GRU deep learning model.
 
