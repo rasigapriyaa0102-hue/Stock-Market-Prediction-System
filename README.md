@@ -70,15 +70,23 @@ This is the main objective of the project. The forecasted stock prices are compa
 **✨ Key Features**
 
 •	Historical Stock Data Collection
+
 •	Deep Learning-Based Stock Price Prediction
+
 •	Actual vs Predicted Price Comparison
+
 •	Interactive Performance Graphs
+
 •	Accuracy Metric Calculation
+
 •	Multiple Model Evaluation
+
 •	Web-Based Flask Interface
+
 •	Clean and User-Friendly Dashboard
 
 **📊 Expected Outcome**
+
 The system demonstrates how different prediction models perform on real stock market data by comparing predicted values with actual values.
 The final output allows users to:
 •	Analyze prediction accuracy.
@@ -87,4 +95,5 @@ The final output allows users to:
 •	Understand the practical application of AI and Deep Learning in financial time-series forecasting.
 
 **🎓 Conclusion**
+
 This project demonstrates the application of Artificial Intelligence and Deep Learning in stock market forecasting. Rather than claiming perfect future predictions, it focuses on evaluating model performance through Actual vs Predicted price comparison and quantitative accuracy metrics. The system serves as an educational and analytical platform for understanding the effectiveness of AI models in financial forecasting and provides a foundation for future research and model improvement.
